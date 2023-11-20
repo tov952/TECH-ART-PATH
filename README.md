@@ -64,6 +64,7 @@ https://www.artstation.com/thomasfrancis
 
 https://discourse.techart.online/
 
+## Feel free to update this readme if you feel there are any corrections that should be made or you have any suggestions! :)
 
 
 
