@@ -60,6 +60,11 @@ https://www.artstation.com/thomasfrancis
 ## Tech Animation inspiration:
 
 
+## Check out Tech Artist.org for advice on this career path!
+
+https://discourse.techart.online/
+
+
 
 
 
