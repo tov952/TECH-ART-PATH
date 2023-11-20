@@ -1,7 +1,7 @@
 # TECH-ART-PATH
 ## Actionables:
 - Talk to an Artist if you're a programmer!  Ask about their day-to-day; how do they problem solve?
-- Talk to a Programmers if you're an artist! Ask about their day-to-day; how do they make art?
+- Talk to a Programmer if you're an artist! Ask about their day-to-day; how do they make art?
 
 ### Dip your toes ( For Artists ):
 This path assumes you have some understanding of creating Game Art Assets; and you are also familiar with Unreal Engine!
