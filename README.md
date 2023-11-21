@@ -61,6 +61,19 @@ https://www.artstation.com/thomasfrancis
 
 ## Tech Animation inspiration:
 
+The three pillars of technical animation!
+
+Rigging:
+
+https://www.youtube.com/channel/UCN_JHIw0zGtCIWMTQGNqbmg
+
+Pipeline:
+
+https://zurbrigg.com/
+
+State Machines:
+
+https://www.youtube.com/watch?v=uwKuinJCJyI&list=PL8H8v3x5ytAF18PFvMLKf_w_93U7GawF7
 
 ## Check out Tech Artist.org for advice on this career path!
 
