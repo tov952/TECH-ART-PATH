@@ -45,7 +45,10 @@ You can take a look at this polycount thread by Marina Alexandra Bade where she 
 
 https://polycount.com/discussion/203089/unity-shanty-town
 
-## Shader work inspiration:
+
+## Now that your toes are dipped; you can look at some advanced materials for the various pillars of tech art and see if any interests you!
+
+### Shader work inspiration:
 You can check out Panagiotis' blog where he goes indepth with the rendering techniques he used:
 
 https://panthavma.com/
@@ -54,12 +57,19 @@ As well as his talk on stylized rendering within Godot:
 
 https://media.ccc.de/v/godotcon2023-57824-from-watercolors-to-mechs-stylized-rendering-and-asset-pipelines-in-godot
 
-## VFX inspiration: 
+### VFX inspiration: 
 Thomas has some very detailed breakdown on how he created his VFX! 
 
 https://www.artstation.com/thomasfrancis
 
-## Tech Animation inspiration:
+Realtime VFX is a treasure trove forum for aspiring VFX Artists! 
+
+https://realtimevfx.com/
+
+CGHow will teach you how to make VFX in unreal!
+https://www.youtube.com/watch?v=tDoa4bBCuKE
+
+### Tech Animation inspiration:
 
 The three pillars of technical animation!
 
@@ -75,9 +85,13 @@ State Machines:
 
 https://www.youtube.com/watch?v=uwKuinJCJyI&list=PL8H8v3x5ytAF18PFvMLKf_w_93U7GawF7
 
-## Check out Tech Artist.org for advice on this career path!
+## Check out these forums for some advice and mentors! 
 
+Tools, Tech Anim and Graphics:
 https://discourse.techart.online/
+
+VFX:
+https://realtimevfx.com/
 
 ## Feel free to update this readme if you feel there are any corrections that should be made or you have any suggestions! :)
 
