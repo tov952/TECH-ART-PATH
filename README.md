@@ -1,4 +1,26 @@
-# TECH-ART-PATH
+# Road to Technical Art
+You'd need to know where you stand on the tech art spectrum!
+And what soft skills and hard skills you need to develop to get to there!
+
+And there are many paths for Art to Tech Art
+![image](https://github.com/tov952/TECH-ART-PATH/assets/59757164/7c5ff18b-cc82-4648-8705-ce016925b0e3)
+
+![image](https://github.com/tov952/TECH-ART-PATH/assets/59757164/8d95fe44-0ac6-4033-9232-703c0082292f)
+
+![image](https://github.com/tov952/TECH-ART-PATH/assets/59757164/6fe6648e-c0dd-4b1e-af71-0921c5dc4f99)
+
+![image](https://github.com/tov952/TECH-ART-PATH/assets/59757164/449feae3-c74a-4bee-8343-185460f8900d)
+
+There are also paths to take from programming!
+
+![image](https://github.com/tov952/TECH-ART-PATH/assets/59757164/11e56a1a-b9de-4790-acf6-63db357155e6)
+
+![image](https://github.com/tov952/TECH-ART-PATH/assets/59757164/527eb8f2-325f-4a42-95d3-a5e8acb5ef2f)
+
+![image](https://github.com/tov952/TECH-ART-PATH/assets/59757164/657f0b33-0fb8-4b0c-9910-71a4ee08659f)
+
+
+
 ## Actionables:
 - Talk to an Artist if you're a programmer!  Ask about their day-to-day; how do they problem solve?
 - Talk to a Programmer if you're an artist! Ask about their day-to-day; how do they make art?
