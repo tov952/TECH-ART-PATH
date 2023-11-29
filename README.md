@@ -2,7 +2,7 @@
 You'd need to know where you stand on the tech art spectrum!
 And what soft skills and hard skills you need to develop to get to there!
 
-And there are many paths for Art to Tech Art
+#ART TO TECH ART PATH
 ![image](https://github.com/tov952/TECH-ART-PATH/assets/59757164/7c5ff18b-cc82-4648-8705-ce016925b0e3)
 
 ![image](https://github.com/tov952/TECH-ART-PATH/assets/59757164/8d95fe44-0ac6-4033-9232-703c0082292f)
@@ -13,8 +13,7 @@ And there are many paths for Art to Tech Art
 
 
 
-There are also paths to take from programming!
-
+#PROGRAMMING TO TECH ART PATH
 ![image](https://github.com/tov952/TECH-ART-PATH/assets/59757164/11e56a1a-b9de-4790-acf6-63db357155e6)
 
 ![image](https://github.com/tov952/TECH-ART-PATH/assets/59757164/527eb8f2-325f-4a42-95d3-a5e8acb5ef2f)
