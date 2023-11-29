@@ -63,13 +63,13 @@ You will probably need to install Houdini Apprentice, Unreal Engine, Blender and
 
 At this point, you should be equipped with some skills to create tools and shaders for your artist; or at the very least be able to understand the artist perspective!
 
-## Tools and Pipeline inspiration:
+
+## Now that your toes are dipped; you can look at some advanced materials for the various pillars of tech art and see if any interests you!
+
+### Tools and Pipeline inspiration:
 You can take a look at this polycount thread by Marina Alexandra Bade where she goes into detail of how she created her Procedural Shanty Town!
 
 https://polycount.com/discussion/203089/unity-shanty-town
-
-
-## Now that your toes are dipped; you can look at some advanced materials for the various pillars of tech art and see if any interests you!
 
 ### Shader work inspiration:
 You can check out Panagiotis' blog where he goes indepth with the rendering techniques he used:
