@@ -11,6 +11,8 @@ And there are many paths for Art to Tech Art
 
 ![image](https://github.com/tov952/TECH-ART-PATH/assets/59757164/449feae3-c74a-4bee-8343-185460f8900d)
 
+
+
 There are also paths to take from programming!
 
 ![image](https://github.com/tov952/TECH-ART-PATH/assets/59757164/11e56a1a-b9de-4790-acf6-63db357155e6)
