@@ -71,6 +71,12 @@ You can take a look at this polycount thread by Marina Alexandra Bade where she 
 
 https://polycount.com/discussion/203089/unity-shanty-town
 
+Matt's CGWiki site offers a treasure trove of TA Knowledge!  
+https://tokeru.com/cgwiki/
+
+If you have some Houdini specific problems that you need help with, you could check out:
+https://forums.odforce.net/
+
 ### Shader work inspiration:
 You can check out Panagiotis' blog where he goes indepth with the rendering techniques he used:
 
